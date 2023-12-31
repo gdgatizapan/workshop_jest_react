@@ -1,3 +1,5 @@
+import styles from "./main.module.scss";
+
 export function Main() {
-  return <p>main</p>;
+  return <p className={styles.test}>main</p>;
 }
