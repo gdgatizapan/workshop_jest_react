@@ -16,13 +16,13 @@ export function Counter() {
   };
 
   return (
-    <div>
+    <>
       <Header />
       <div className={styles.counter}>
         <Button onClick={handleDecrease}>-1</Button>
         <p className={styles.count}>{count}</p>
         <Button onClick={handleIncrease}>+1</Button>
       </div>
-    </div>
+    </>
   );
 }

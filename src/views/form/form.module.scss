@@ -1,0 +1,8 @@
+.form {
+  @apply min-h-44 flex flex-col items-center;
+}
+
+.input,
+.send {
+  @apply mb-4;
+}
