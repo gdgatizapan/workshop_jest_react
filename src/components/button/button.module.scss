@@ -1,3 +1,3 @@
-.button {
-  @apply p-3 min-w-28 border-4 rounded-full border-blue-900 bg-blue-800 text-white hover:bg-white hover:text-blue-800 ease-in-out duration-700;
+.button[type="button"] {
+  @apply p-3 min-w-28 border-4 rounded-full border-blue-900 text-white  hover:text-blue-800 ease-in-out duration-700 bg-blue-800 hover:bg-white;
 }
