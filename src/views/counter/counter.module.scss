@@ -1,0 +1,7 @@
+.counter {
+  @apply flex gap-3 items-center;
+}
+
+.count {
+  @apply text-lg text-indigo-900 font-bold min-w-5 text-center;
+}
