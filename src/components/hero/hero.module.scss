@@ -1,0 +1,11 @@
+.container {
+  @apply flex flex-col justify-center items-center;
+}
+
+.title {
+  @apply text-xl font-bold;
+}
+
+.image {
+  @apply w-64 h-64;
+}
