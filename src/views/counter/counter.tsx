@@ -1,3 +1,10 @@
+import { Header } from "@src/components";
+
 export function Counter() {
-  return <p>Counter</p>;
+  return (
+    <div>
+      <Header />
+      <p>Counter</p>
+    </div>
+  );
 }

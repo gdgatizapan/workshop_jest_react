@@ -1,3 +1,10 @@
+import { Header } from "@src/components";
+
 export function Form() {
-  return <p>Form</p>;
+  return (
+    <div>
+      <Header />
+      <p>Form</p>
+    </div>
+  );
 }
