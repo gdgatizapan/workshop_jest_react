@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
+import "./index.scss";
+
 import { Main } from "@src/views";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
