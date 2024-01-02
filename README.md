@@ -10,6 +10,14 @@ Simple project with a counter and a form to introduce unit testing with Jest.
 - TailwindCSS
 - React Router DOM
 
+## Installation
+
+`npm i`
+
+## Run project
+
+`npm run dev`
+
 ## Demo
 https://github.com/gdgatizapan/workshop_jest_react/assets/40204500/87479565-cfe3-4281-a5a1-03807b18ba03
 
